@@ -1,2 +1,4 @@
-# hexis-legal
-Legal pages for Hexis app (privacy policy and terms).
+# Hexis Legal
+
+- [Privacy Policy](./privacy-policy.md)
+- [Terms and Conditions](./terms-and-conditions.md)
